@@ -1,1 +1,10 @@
-{"hello": "world"}
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "au.com.woolies.mw",
+    "sha256_cert_fingerprints": [
+      "50:67:C1:53:7C:E7:32:73:2A:6E:19:EC:78:A3:FF:81:97:49:09:CF:D9:BA:DC:2B:9F:D9:0E:53:0A:4D:EA:2C"
+    ]
+  }
+}]
